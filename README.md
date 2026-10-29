@@ -11,7 +11,8 @@ Everything here was built and tested over two weeks of daily practice. All compa
 | [`METHOD.md`](METHOD.md) | The 8-step method, timing, maths habits and the summary formula. Read this first. |
 | [`RUBRIC.md`](RUBRIC.md) | How to score a case (8 dimensions, 1–4) and what a "4" looks like. |
 | [`COACH_PROMPT.md`](COACH_PROMPT.md) | A prompt that turns an AI assistant into a strict interviewer, plus rules for a friend playing interviewer. |
-| [`cases/`](cases/) | 9 practice cases. Each has the opening prompt, a hidden interviewer key and a model answer. |
+| [`GENERATE_CASES.md`](GENERATE_CASES.md) | **A prompt that writes a fresh case every day**, aimed at your weak spots, in the same format as the examples. |
+| [`cases/`](cases/) | 9 worked cases to start with. Each has the opening prompt, a hidden interviewer key and a model answer. |
 | [`warmups/`](warmups/) | 3-minute maths warm-ups and 60-second summary drills. |
 | [`tools/mock-interviewer.html`](tools/mock-interviewer.html) | Open in a browser, paste an interviewer line, and hear it read aloud. |
 
@@ -24,8 +25,9 @@ Everything here was built and tested over two weeks of daily practice. All compa
 5. **Run the case for 35 minutes**, with time checks at 6, 20 and 30 minutes.
 6. **Score it** with [`RUBRIC.md`](RUBRIC.md), then read the model answer.
 7. **Redo the same case** a day later if you scored under 20/32. Repeating a case you know drills the method.
+8. **Once you've done a few, generate a new case every day** with [`GENERATE_CASES.md`](GENERATE_CASES.md), and keep a short log so each new case targets your weak spots.
 
-## Suggested order
+## The 9 worked cases (suggested order)
 
 | # | Case | Type | Main skill |
 |---|---|---|---|
